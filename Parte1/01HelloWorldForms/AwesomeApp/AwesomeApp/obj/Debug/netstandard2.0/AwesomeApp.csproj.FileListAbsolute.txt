@@ -1,0 +1,12 @@
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.deps.json
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.dll
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csprojAssemblyReference.cache
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.CoreCompileInputs.cache
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfoInputs.cache
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
+/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb
