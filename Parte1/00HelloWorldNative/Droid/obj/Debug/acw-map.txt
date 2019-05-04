@@ -1,0 +1,3 @@
+HelloWorldNative.Droid.MainActivity, 00HelloWorldNative.Droid;md5d276fa2bc9ff0776110a9e6bef93a366.MainActivity
+HelloWorldNative.Droid.MainActivity;md5d276fa2bc9ff0776110a9e6bef93a366.MainActivity
+helloworldnative.droid.MainActivity;md5d276fa2bc9ff0776110a9e6bef93a366.MainActivity

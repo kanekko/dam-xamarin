@@ -1,0 +1,6 @@
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/00HelloWorldNative/bin/Debug/00HelloWorldNative.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/00HelloWorldNative/bin/Debug/00HelloWorldNative.pdb
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/00HelloWorldNative/obj/Debug/00HelloWorldNative.csprojAssemblyReference.cache
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/00HelloWorldNative/obj/Debug/00HelloWorldNative.csproj.CoreCompileInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/00HelloWorldNative/obj/Debug/00HelloWorldNative.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/00HelloWorldNative/obj/Debug/00HelloWorldNative.pdb

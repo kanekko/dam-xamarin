@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8C566AE8-D2C2-4791-8A2C-94AB650AA6DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.00HelloWorldNative.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40B9A630-DA8E-450C-AA2A-512DC859967E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.00HelloWorldNative.iOS>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="21" Column="72" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="00HelloWorldNative" expanded="True">
+            <Node name="00HelloWorldNative" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="00HelloWorldNative.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="00HelloWorldNative.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.00HelloWorldNative.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ZZ22293QHP" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/00HelloWorldNative.Droid.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/00HelloWorldNative.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/Java.Interop.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/Mono.Android.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/mscorlib.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/System.Core.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/System.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/System.Xml.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/System.Runtime.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/System.Net.Http.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/canek/Projects/dam-xamarin/Parte1/00HelloWorldNative/Droid/obj/Debug/android/assets/Mono.Security.dll
