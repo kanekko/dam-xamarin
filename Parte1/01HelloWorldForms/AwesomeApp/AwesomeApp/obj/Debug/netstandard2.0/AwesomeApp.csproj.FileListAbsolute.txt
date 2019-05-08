@@ -10,3 +10,15 @@
 /Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
 /Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.deps.json
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.dll
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csprojAssemblyReference.cache
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.CoreCompileInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfoInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
+/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb

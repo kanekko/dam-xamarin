@@ -2,6 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp/AwesomeApp/MainPage.xaml">
     <Files>
       <File FileName="AwesomeApp/AwesomeApp/MainPage.xaml" />
+      <File FileName="AwesomeApp/AwesomeApp/MainPage.xaml.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,12 +12,13 @@
               <Node name="MainPage.xaml" expanded="True" selected="True" />
             </Node>
             <Node name="AwesomeApp.Android" expanded="True" />
+            <Node name="AwesomeApp.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.AwesomeApp.Android PreferredExecutionTarget="Android.ZZ22293QHP" />
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android..Nexus_5_Intel_7.1_API_25_1080x1920" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

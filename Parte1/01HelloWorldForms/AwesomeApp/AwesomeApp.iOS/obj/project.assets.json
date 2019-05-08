@@ -737,11 +737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
+      "projectUniqueName": "/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
       "projectName": "AwesomeApp.iOS",
-      "projectPath": "/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
+      "projectPath": "/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
       "packagesPath": "/Users/canek/.nuget/packages/",
-      "outputPath": "/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp.iOS/obj/",
+      "outputPath": "/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -756,8 +756,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/AwesomeApp.csproj": {
-              "projectPath": "/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/AwesomeApp.csproj"
+            "/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/AwesomeApp.csproj": {
+              "projectPath": "/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/AwesomeApp.csproj"
             }
           }
         }

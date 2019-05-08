@@ -2,30 +2,30 @@
   <MonoDevelop.Ide.ItemProperties.00HelloWorldNative.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40B9A630-DA8E-450C-AA2A-512DC859967E">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.00HelloWorldNative.iOS>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/LaunchScreen.storyboard">
     <Files>
-      <File FileName="Droid/MainActivity.cs" Line="10" Column="23" NotebookId="1" />
+      <File FileName="00HelloWorldNative/MyClass.cs" Line="1" Column="1" />
+      <File FileName="iOS/LaunchScreen.storyboard" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="00HelloWorldNative" expanded="True">
-            <Node name="00HelloWorldNative" expanded="True">
-              <Node name="Properties" expanded="True" />
-            </Node>
+            <Node name="00HelloWorldNative" expanded="True" />
             <Node name="00HelloWorldNative.Droid" expanded="True">
               <Node name="Resources" expanded="True">
                 <Node name="layout" expanded="True" />
               </Node>
-              <Node name="MainActivity.cs" selected="True" />
             </Node>
-            <Node name="00HelloWorldNative.iOS" expanded="True" />
+            <Node name="00HelloWorldNative.iOS" expanded="True">
+              <Node name="LaunchScreen.storyboard" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.00HelloWorldNative.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ZZ22293QHP" />
+  <MonoDevelop.Ide.ItemProperties.00HelloWorldNative.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android..ADP2-Intel-4.0.3-API_15-320x480" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

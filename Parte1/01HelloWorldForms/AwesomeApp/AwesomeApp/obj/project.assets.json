@@ -367,11 +367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/AwesomeApp.csproj",
+      "projectUniqueName": "/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/AwesomeApp.csproj",
       "projectName": "AwesomeApp",
-      "projectPath": "/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/AwesomeApp.csproj",
+      "projectPath": "/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/AwesomeApp.csproj",
       "packagesPath": "/Users/canek/.nuget/packages/",
-      "outputPath": "/Users/canek/Desktop/FirstApp/AwesomeApp/AwesomeApp/obj/",
+      "outputPath": "/Users/canek/Projects/dam-xamarin/Parte1/01HelloWorldForms/AwesomeApp/AwesomeApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,13 @@
+/Users/canek/Desktop/MultiPage/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+/Users/canek/Desktop/MultiPage/Notes/bin/Debug/netstandard2.0/Notes.dll
+/Users/canek/Desktop/MultiPage/Notes/bin/Debug/netstandard2.0/Notes.pdb
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/Notes.csprojAssemblyReference.cache
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/NoteEntryPage.xaml.g.cs
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/NotesPage.xaml.g.cs
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/Notes.dll
+/Users/canek/Desktop/MultiPage/Notes/obj/Debug/netstandard2.0/Notes.pdb
