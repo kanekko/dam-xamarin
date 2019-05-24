@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5671FABA-3EF1-49E9-94BE-6E591444BB92}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/NoteEntryPage.xaml">
+    <Files>
+      <File FileName="Notes/App.xaml" />
+      <File FileName="Notes/NotesPage.xaml" />
+      <File FileName="Notes/NoteEntryPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Notes" expanded="True">
+            <Node name="Notes" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="NoteEntryPage.xaml" selected="True" />
+            </Node>
+            <Node name="Notes.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Notes.Android PreferredExecutionTarget="Android..Nexus_5_Intel_7.1_API_25_1080x1920" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
