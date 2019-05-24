@@ -1,0 +1,11 @@
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/bin/Debug/netcoreapp2.0/CSharp.deps.json
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/bin/Debug/netcoreapp2.0/CSharp.runtimeconfig.json
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/bin/Debug/netcoreapp2.0/CSharp.runtimeconfig.dev.json
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/bin/Debug/netcoreapp2.0/CSharp.dll
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/bin/Debug/netcoreapp2.0/CSharp.pdb
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.csprojAssemblyReference.cache
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.AssemblyInfoInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.AssemblyInfo.cs
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.dll
+/Users/canek/Projects/dam-xamarin/Parte1/06Bases/CSharp/CSharp/obj/Debug/netcoreapp2.0/CSharp.pdb
