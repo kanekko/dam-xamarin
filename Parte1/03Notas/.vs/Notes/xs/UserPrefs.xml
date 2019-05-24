@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5671FABA-3EF1-49E9-94BE-6E591444BB92}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes/MainPage.xaml">
+    <Files>
+      <File FileName="Notes/MainPage.xaml" />
+      <File FileName="Notes/MainPage.xaml.cs" Line="8" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Notes.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android..Nexus_5_Intel_7.1_API_25_1080x1920" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
