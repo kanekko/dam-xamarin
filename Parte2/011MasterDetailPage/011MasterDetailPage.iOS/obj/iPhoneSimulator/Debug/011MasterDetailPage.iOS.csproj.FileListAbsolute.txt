@@ -1,0 +1,8 @@
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage.iOS/obj/iPhoneSimulator/Debug/011MasterDetailPage.iOS.csprojAssemblyReference.cache
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage.iOS/obj/iPhoneSimulator/Debug/011MasterDetailPage.iOS.csproj.CoreCompileInputs.cache

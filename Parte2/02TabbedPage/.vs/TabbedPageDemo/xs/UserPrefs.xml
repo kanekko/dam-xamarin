@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7D1FC663-9B31-4A67-8B71-8229AC3B6AA2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedPageDemo/TabbedPageDemo/TabbedPageDemoPage.xaml">
+    <Files>
+      <File FileName="../TipCalculatorOriginal/TipCalculator/TipCalculator/View/MainPage.xaml" />
+      <File FileName="../TipCalculatorOriginal/TipCalculator/TipCalculator/Model/TipModel.cs" Line="1" Column="1" />
+      <File FileName="TabbedPageDemo/TabbedPageDemo/TabbedPageDemoPage.xaml" />
+      <File FileName="TabbedPageDemo/TabbedPageDemo/App.cs" Line="1" Column="1" />
+      <File FileName="TabbedPageDemo/TabbedPageDemo/TabbedPageDemoPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabbedPageDemo" expanded="True">
+            <Node name="TabbedPageDemo" expanded="True">
+              <Node name="TabbedPageDemoPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+          <Node name="TipCalculator" expanded="True">
+            <Node name="TipCalculator" expanded="True">
+              <Node name="Converters" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="View" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="TipCalculator.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40B9A630-DA8E-450C-AA2A-512DC859967E" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

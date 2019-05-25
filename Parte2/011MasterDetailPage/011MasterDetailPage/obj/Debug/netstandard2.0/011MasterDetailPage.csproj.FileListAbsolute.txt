@@ -1,0 +1,7 @@
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage/obj/Debug/netstandard2.0/Detalle.xaml.g.cs
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage/obj/Debug/netstandard2.0/Maestro.xaml.g.cs
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage/obj/Debug/netstandard2.0/011MasterDetailPage.csproj.CoreCompileInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage/obj/Debug/netstandard2.0/011MasterDetailPage.AssemblyInfoInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte2/011MasterDetailPage/011MasterDetailPage/obj/Debug/netstandard2.0/011MasterDetailPage.AssemblyInfo.cs

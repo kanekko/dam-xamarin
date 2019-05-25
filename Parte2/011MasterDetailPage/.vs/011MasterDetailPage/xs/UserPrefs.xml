@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{7A05F6DA-9F79-4955-8BAC-073E7F3D7294}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="011MasterDetailPage/MainPage.xaml.cs" Line="7" Column="20" />
+      <File FileName="011MasterDetailPage/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="011MasterDetailPage" expanded="True">
+            <Node name="011MasterDetailPage" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Maestro.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="011MasterDetailPage.Android" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="011MasterDetailPage.iOS" expanded="True">
+              <Node name="Assets.xcassets" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.011MasterDetailPage.Android PreferredExecutionTarget="Android.ZZ22293QHP" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

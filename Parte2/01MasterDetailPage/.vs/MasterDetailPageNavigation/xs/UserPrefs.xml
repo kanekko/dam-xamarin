@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{94BA3405-8AC9-47A8-90B4-59DBF2D56EF0}|Default">
+  <MonoDevelop.Ide.ItemProperties.MasterDetailPageNavigation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40B9A630-DA8E-450C-AA2A-512DC859967E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailPageNavigation/XAML/ContactsPage.xaml">
+    <Files>
+      <File FileName="MasterDetailPageNavigation/App.cs" Line="11" Column="45" />
+      <File FileName="MasterDetailPageNavigation/XAML/MainPage.xaml" />
+      <File FileName="MasterDetailPageNavigation/XAML/MainPage.xaml.cs" Line="21" Column="10" />
+      <File FileName="MasterDetailPageNavigation/XAML/ContactsPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MasterDetailPageNavigation" expanded="True">
+            <Node name="MasterDetailPageNavigation" expanded="True">
+              <Node name="XAML" expanded="True">
+                <Node name="ContactsPage.xaml" expanded="True" selected="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="MasterPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="MasterDetailPageNavigation.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MasterDetailPageNavigation.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android..ADP2-Intel-4.0.3-API_15-320x480" />
+</Properties>
