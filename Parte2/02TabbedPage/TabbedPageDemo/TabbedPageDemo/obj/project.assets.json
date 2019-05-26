@@ -367,11 +367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj",
+      "projectUniqueName": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj",
       "projectName": "TabbedPageDemo",
-      "projectPath": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj",
+      "projectPath": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj",
       "packagesPath": "/Users/canek/.nuget/packages/",
-      "outputPath": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/",
+      "outputPath": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1756,11 +1756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo.Android/TabbedPageDemo.Android.csproj",
+      "projectUniqueName": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo.Android/TabbedPageDemo.Android.csproj",
       "projectName": "TabbedPageDemo.Android",
-      "projectPath": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo.Android/TabbedPageDemo.Android.csproj",
+      "projectPath": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo.Android/TabbedPageDemo.Android.csproj",
       "packagesPath": "/Users/canek/.nuget/packages/",
-      "outputPath": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo.Android/obj/",
+      "outputPath": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1775,8 +1775,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj": {
-              "projectPath": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj"
+            "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj": {
+              "projectPath": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj"
             }
           }
         }

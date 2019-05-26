@@ -1,0 +1,11 @@
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/bin/Debug/netstandard2.0/TabbedPageDemo.deps.json
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/bin/Debug/netstandard2.0/TabbedPageDemo.dll
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/bin/Debug/netstandard2.0/TabbedPageDemo.pdb
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug/netstandard2.0/TabbedPageDemo.csprojAssemblyReference.cache
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug/netstandard2.0/TabbedPageDemoPage.xaml.g.cs
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug/netstandard2.0/TabbedPageDemo.csproj.CoreCompileInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug/netstandard2.0/TabbedPageDemo.AssemblyInfoInputs.cache
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug/netstandard2.0/TabbedPageDemo.AssemblyInfo.cs
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug/netstandard2.0/TabbedPageDemo.dll
+/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug/netstandard2.0/TabbedPageDemo.pdb

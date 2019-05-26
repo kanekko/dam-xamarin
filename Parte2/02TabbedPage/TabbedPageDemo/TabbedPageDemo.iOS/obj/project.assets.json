@@ -737,11 +737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo.iOS/TabbedPageDemo.iOS.csproj",
+      "projectUniqueName": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo.iOS/TabbedPageDemo.iOS.csproj",
       "projectName": "FormsTemplateiOS",
-      "projectPath": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo.iOS/TabbedPageDemo.iOS.csproj",
+      "projectPath": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo.iOS/TabbedPageDemo.iOS.csproj",
       "packagesPath": "/Users/canek/.nuget/packages/",
-      "outputPath": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo.iOS/obj/",
+      "outputPath": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -756,8 +756,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj": {
-              "projectPath": "/Users/canek/Desktop/05TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj"
+            "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj": {
+              "projectPath": "/Users/canek/Projects/dam-xamarin/Parte2/02TabbedPage/TabbedPageDemo/TabbedPageDemo/TabbedPageDemo.csproj"
             }
           }
         }
