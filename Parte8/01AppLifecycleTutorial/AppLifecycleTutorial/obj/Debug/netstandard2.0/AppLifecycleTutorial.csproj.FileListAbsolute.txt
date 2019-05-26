@@ -1,0 +1,12 @@
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/bin/Debug/netstandard2.0/AppLifecycleTutorial.deps.json
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/bin/Debug/netstandard2.0/AppLifecycleTutorial.dll
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/bin/Debug/netstandard2.0/AppLifecycleTutorial.pdb
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/AppLifecycleTutorial.csprojAssemblyReference.cache
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/AppLifecycleTutorial.csproj.CoreCompileInputs.cache
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/AppLifecycleTutorial.AssemblyInfoInputs.cache
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/AppLifecycleTutorial.AssemblyInfo.cs
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/AppLifecycleTutorial.dll
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/AppLifecycleTutorial/AppLifecycleTutorial/obj/Debug/netstandard2.0/AppLifecycleTutorial.pdb
