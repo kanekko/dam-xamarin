@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{AF0D5C42-69F2-42F0-A766-B2AC24FDEBFE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Navigation.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Navigation/Page1Xaml.xaml">
+    <Files>
+      <File FileName="Navigation/Page1Xaml.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Navigation" expanded="True">
+            <Node name="Navigation" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="Page1Xaml.xaml" expanded="True" selected="True" />
+              <Node name="Page2aXaml.xaml" expanded="True" />
+              <Node name="Page2Xaml.xaml" expanded="True" />
+              <Node name="Page3Xaml.xaml" expanded="True" />
+            </Node>
+            <Node name="Navigation.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Navigation.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.ZZ22293QHP" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
