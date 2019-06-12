@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{3B21250E-0379-4CAC-B706-36E58CC05A58}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebServiceTutorial/MainPage.xaml.cs">
+    <Files>
+      <File FileName="WebServiceTutorial/Constants.cs" Line="6" Column="85" />
+      <File FileName="WebServiceTutorial/WeatherData.cs" Line="1" Column="1" />
+      <File FileName="WebServiceTutorial/MainPage.xaml" />
+      <File FileName="WebServiceTutorial/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebServiceTutorial" expanded="True">
+            <Node name="WebServiceTutorial" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebServiceTutorial.Android PreferredExecutionTarget="Android..Nexus_5_Intel_7.1_API_25_1080x1920" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/bin/Debug/netstandard2.0/WebServiceTutorial.deps.json
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/bin/Debug/netstandard2.0/WebServiceTutorial.dll
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/bin/Debug/netstandard2.0/WebServiceTutorial.pdb
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/WebServiceTutorial.csprojAssemblyReference.cache
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/WebServiceTutorial.csproj.CoreCompileInputs.cache
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/WebServiceTutorial.AssemblyInfoInputs.cache
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/WebServiceTutorial.AssemblyInfo.cs
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/WebServiceTutorial.dll
+/Users/canek/Projects/xamarin-forms-samples/GetStarted/Tutorials/WebServiceTutorial/WebServiceTutorial/obj/Debug/netstandard2.0/WebServiceTutorial.pdb
