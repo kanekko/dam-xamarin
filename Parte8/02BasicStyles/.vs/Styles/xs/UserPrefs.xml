@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{2B326D5B-2564-4D19-9F1D-0DEC3D69B91F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Styles/HomePage.xaml">
+    <Files>
+      <File FileName="Styles/HomePage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Styles" expanded="True">
+            <Node name="Styles" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Styles.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android..ADP2-Intel-4.0.3-API_15-320x480" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Styles.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.40B9A630-DA8E-450C-AA2A-512DC859967E" />
+</Properties>
