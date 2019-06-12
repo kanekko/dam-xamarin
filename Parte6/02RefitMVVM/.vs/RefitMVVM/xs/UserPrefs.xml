@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{37CA2B38-5ADE-4A69-BCAD-8116FCB3F6FB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RefitMVVM/Views/MainPage.xaml">
+    <Files>
+      <File FileName="RefitMVVM/Views/MainPage.xaml.cs" Line="10" Column="26" />
+      <File FileName="RefitMVVM/Views/MainPage.xaml" />
+      <File FileName="RefitMVVM/Models/BaseModels.cs" Line="7" Column="53" />
+      <File FileName="RefitMVVM/Service/IRefitService.cs" Line="11" Column="6" />
+      <File FileName="RefitMVVM/Service/RefitServiceGenerator.cs" Line="10" Column="52" />
+      <File FileName="RefitMVVM/App.xaml" />
+      <File FileName="RefitMVVM/App.xaml.cs" Line="19" Column="10" />
+      <File FileName="Source Not Available" />
+      <File FileName="RefitMVVM/ViewModels/MainPageViewModel.cs" Line="10" Column="28" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RefitMVVM" expanded="True">
+            <Node name="RefitMVVM" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Service" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RefitMVVM.Android PreferredExecutionTarget="Android.ZZ22293QHP" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RefitMVVM.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

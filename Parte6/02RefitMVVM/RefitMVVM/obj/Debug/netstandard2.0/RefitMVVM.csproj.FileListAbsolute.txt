@@ -1,0 +1,12 @@
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/RefitMVVM.csprojAssemblyReference.cache
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/RefitMVVM.csproj.CoreCompileInputs.cache
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/RefitMVVM.AssemblyInfoInputs.cache
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/RefitMVVM.AssemblyInfo.cs
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/canek/Projects/RefitMVVM/RefitMVVM/bin/Debug/netstandard2.0/RefitMVVM.deps.json
+/Users/canek/Projects/RefitMVVM/RefitMVVM/bin/Debug/netstandard2.0/RefitMVVM.dll
+/Users/canek/Projects/RefitMVVM/RefitMVVM/bin/Debug/netstandard2.0/RefitMVVM.pdb
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/RefitMVVM.dll
+/Users/canek/Projects/RefitMVVM/RefitMVVM/obj/Debug/netstandard2.0/RefitMVVM.pdb
