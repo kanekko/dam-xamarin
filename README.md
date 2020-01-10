@@ -11,7 +11,6 @@ Entre otras cosas, al término del curso, el alumno será capaz de: Crear interf
 Haber tomado el curso de C# o tener conocimientos equivalentes. Comprensión de lectura de textos en idioma inglés. 
 
 #### Temario: ####
-
 **Parte 1: PRIMEROS PASOS CON XAMARIN**
 
 La suite del producto | Introducción a Xamarin.Forms | Cómo construir el layout | Renderirzadores de plataforma
